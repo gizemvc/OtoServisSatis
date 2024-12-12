@@ -1,0 +1,14 @@
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.deps.json
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\bin\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.dll
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\refint\OtoServisSatis.Service.dll
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.pdb
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\OtoServisSatis.Service.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\OtoServisSatis\OtoServisSatis.Service\obj\Debug\net8.0\ref\OtoServisSatis.Service.dll
